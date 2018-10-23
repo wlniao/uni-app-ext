@@ -1,0 +1,11 @@
+﻿/.vs
+/dist
+/node_modules
+/*/dist
+/*/unpackage
+/*/node_modules
+*.dg
+*.suo
+*.txt
+*.log
+
